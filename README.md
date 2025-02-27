@@ -39,7 +39,7 @@ Sorting Visualizer is a web-based tool that allows users to visualize different 
 
 ## 📸 Screenshots
 
-_(Add screenshots of your project here)_
+![Screenshot](https://github.com/ritikkumar55/Sorting-Visualizer/blob/main/Screenshot%20(136).png){width=300px height=200px}
 
 ## 🌟 Future Enhancements
 
